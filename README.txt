@@ -1,6 +1,6 @@
-Personal USER.cfg file for Star Citizen / Fork from [Isaard](https://github.com/Isaard)
+## Personal USER.cfg file for Star Citizen / Fork from [Isaard](https://github.com/Isaard "Isaard's Profile")
 
-INSTRUCTIONS
+### INSTRUCTIONS
 1. Move USER.cfg file to Star Citizen installation folder *\Roberts Space Industries\StarCitizen\LIVE
 
 2. Open USER.cfg with Notepad or any text editor, follow instructions inside to set-up file for your system and then save changes when finished.
